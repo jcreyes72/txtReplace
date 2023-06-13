@@ -1,6 +1,6 @@
 # txtReplace 
 
-This app finds words in a text file that are enclosed in angle brackets '<>' and allow the user to modify these specific fields.
+This app finds words in a text file that are enclosed in angle brackets '<>' and allows the user to modify these specific fields.
 
 # to run
 
